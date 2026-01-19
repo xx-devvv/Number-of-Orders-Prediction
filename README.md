@@ -50,6 +50,9 @@ Best Model: **XGBoost**
 Saved Model: `models/best_model.pkl`
 
 ---
+## 🌐 Live Demo
+🔗 **Streamlit App:** https://number-of-orders-prediction.streamlit.app/
+---
 
 ## 🚀 Web App Preview
 ![Streamlit App](assets/streamlit_app.png)
